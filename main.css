@@ -1,3 +1,23 @@
 body {
   background-color: darkolivegreen;
+  text-align: center;
+}
+
+#home-inspector {
+  font-family: sans-serif;
+  border: solid red 2px;
+}
+
+#musician {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: dotted darkmagenta 3px;
+}
+
+#handyman {
+  font-family: Arial, Helvetica, sans-serif;
+  border: dashed darkturquoise 4px;
+}
+
+h2 {
+  color: violet;
 }
